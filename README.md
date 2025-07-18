@@ -1,4 +1,4 @@
-# skin-cancer-detection
+# Skin-Cancer-Detection
 This project explores skin cancer detection using Convolutional Neural Networks (CNN), Long Short-Term Memory (LSTM), and Recurrent Neural Networks (RNN) for classifying benign and malignant lesions.
 
 # Skin Cancer Detection: A Comparative Analysis of LSTM, RNN, and CNN
