@@ -1,0 +1,21 @@
+Dataset Details
+Title: Skin Cancer: Malignant vs. Benign
+
+Description:
+This dataset contains processed images of benign and malignant skin moles, providing a balanced collection of 1800 images for each category. The images are sourced from the ISIC Archive and have been resized to 224x224 pixels. The dataset aims to support machine learning models in predicting skin cancer types with the potential for better and more cost-effective diagnosis than dermatologists.
+
+Source: ISIC Archive
+Download Link: https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
+
+Content Overview:
+
+Training Data:
+Benign: 1440 images
+Malignant: 1197 images
+
+Test Data:
+Benign: 360 images
+Malignant: 300 images
+
+Usage:
+This dataset is ideal for building machine learning models for binary classification of skin cancer.
